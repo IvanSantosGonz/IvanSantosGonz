@@ -9,6 +9,11 @@ Currently, I am improving 💡 my skils in other areas like backend and frontend
 
 Moreover, I am just finishing my PhD in computer science (applied cryptography)🎓.
 
+<p align="center">
+    <a href="https://github.com/ivanSantosGonz" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@ivanSantosGonz-181717?style=flat&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/iván-santos-gonzález-0699243b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
+</p>
+
 <!--
 **IvanSantosGonz/IvanSantosGonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
