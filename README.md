@@ -9,11 +9,12 @@ Currently, I am improving 💡 my skils in other areas like backend and frontend
 
 Moreover, I am just finishing my PhD in computer science (applied cryptography)🎓.
 
-### 📫 Reach me on
-[![GitHub](https://img.shields.io/badge/-@ivanSantosGonz-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/ivanSantosGonz)
-[![Twitter URL](https://img.shields.io/twitter/url?label=%40SantosIvn&style=social&url=https%3A%2F%2Ftwitter.com%2FSantosIvn)](https://twitter.com/SantosIvn)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iván-santos-gonzález-0699243b)
-
+<div style="text-align:center">
+<h3>📫 Reach me on</h3>
+<p><a href="https://github.com/ivanSantosGonz"><img src="https://img.shields.io/badge/-@ivanSantosGonz-181717?style=flat&amp;logo=GitHub&amp;logoColor=white" alt="GitHub"></a>
+<a href="https://twitter.com/SantosIvn"><img src="https://img.shields.io/twitter/url?label=%40SantosIvn&amp;style=social&amp;url=https%3A%2F%2Ftwitter.com%2FSantosIvn" alt="Twitter URL"></a>
+<a href="https://www.linkedin.com/in/iván-santos-gonzález-0699243b"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" alt="LinkedIn"></a></p>
+</div>
 <!--
 **IvanSantosGonz/IvanSantosGonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
