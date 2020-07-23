@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 I am Iván Santos. I work as software developer 👨🏽‍💻 on Lean Mind from a paradise 🌴 place situated in Tenerife, Spain.
+
 I am interested in a lot of things in different fields of computer science but my main topis are Android development 📱, cryptography 📚, and machine learning💻.
+
 Currently, I am improving 💡 my skils in other areas like backend and frontend development, always with an eye on clean code and good practices. 
+
 Moreover, I am just finishing my PhD in computer science (applied cryptography)🎓.
 
 <!--
