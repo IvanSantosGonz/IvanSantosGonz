@@ -1,13 +1,11 @@
 ### Hi there 👋
 ![google headquarter](https://github.com/IvanSantosGonz/IvanSantosGonz/raw/master/ivanGoogleBW.png)
 
-I am Iván Santos. I work as software developer 👨🏽‍💻 on Lean Mind from a paradise 🌴 place situated in Tenerife, Spain.
+I am Iván Santos. I am PhD in Computer Science (applied cryptography)🎓 and I work as software developer 👨🏽‍💻 on Lean Mind from a paradise 🌴 place situated in Tenerife, Spain.
 
 I am interested in a lot of things in different fields of computer science but my main topis are Android development 📱, cryptography 📚, and machine learning💻.
 
 Currently, I am improving 💡 my skills in other areas like backend and frontend development, always with an eye on clean code and good practices. 
-
-Moreover, I am just finishing my PhD in computer science (applied cryptography)🎓.
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
